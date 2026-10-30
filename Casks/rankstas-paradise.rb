@@ -14,7 +14,7 @@ cask "rankstas-paradise" do
     strategy :github_releases
   end
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Ranksta's Paradise.app"
 
