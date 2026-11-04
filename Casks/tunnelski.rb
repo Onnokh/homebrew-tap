@@ -1,6 +1,6 @@
 cask "tunnelski" do
-  version "0.2.8"
-  sha256 "1ec7926ded5f925a47a50dddc9cb56a5b522d49c3c066874dd16f2aaad556a5c"
+  version "0.2.9"
+  sha256 "79863a6d97646f5f0ed9997dbf61049f5cede143132cf07c508f453c13f6e399"
 
   url "https://tunnelski.onkie.dev/releases/Tunnelski-#{version}.dmg"
   name "Tunnelski"
